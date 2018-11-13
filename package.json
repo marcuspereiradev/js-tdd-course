@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "Nossa biblioteca do curso de JS com TDD na prática.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/marcuspereiragithub/js-tdd-course.git).git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Marcus Pereira <marcus.work@hotmail.com> (https://github.com/marcuspereiragithub)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcuspereiragithub/js-tdd-course.git)/issues"
+  },
+  "homepage": "https://github.com/marcuspereiragithub/js-tdd-course.git)#readme"
+}
