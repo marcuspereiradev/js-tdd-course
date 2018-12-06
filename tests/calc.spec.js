@@ -1,6 +1,6 @@
 var expect = require('chai').expect;
 var calc = require('../src/main.js');
-// import {sum, sub, mult, div} from '../src/main.js';
+// import { sum, sub, mult, div } from '../src/main.js';
 
 describe('Calc', () => {
 
